@@ -199,3 +199,5 @@ README.html
 *.iml
 .idea
 .exercism
+/2/rpgame/nbproject/private/
+/2/zoo/nbproject/private/
