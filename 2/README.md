@@ -1,5 +1,9 @@
 ### Association, Aggregation and Composition
 
+---
+
+### Definitions:
+
 An `Association` can be considered a generic term to indicate the relationship between two independent classes; 
 the relationship may be one-to-one, one-to-many, or many-to-many, but it need not indicate ownership.
 
