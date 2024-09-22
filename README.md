@@ -1,7 +1,7 @@
 # Programming-Technology
 This repository contains the tasks and details of the ELTE Programming technology
 
-**Time**: 10:00 AM - 12:00 AM CEST
+**Time**: 10:15 AM - 12:00 AM CEST
 
 **Location**: D 2-108 (PC5)
 
@@ -28,3 +28,5 @@ The lecture (előadás) is asynchronous online
 - Submission of first assignment - **October 11, 2024**
 - Submission of second assignment - **November 15, 2024**
 - Submission of the third assignment - **December 13, 2024**
+
+ ---
